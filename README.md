@@ -2,7 +2,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+
+[comment]: <> (    <img src="images/logo.png" alt="Logo" width="80" height="80">)
   </a>
 
 <h2 align="center">🍿 Hong Kong Cinemas Data Study </h1>
@@ -32,7 +33,7 @@ Three scrapers were built to extract 🎞️movies data, 🎫showtimes data, and
 
 Each scraper has its own pipeline to process and transform the data before eventually writing to a SQLite database. Up to 13 June 2022, they have scraped data of 445 movies and 122,897 shows.
 
-Learn more about the technical process at this GitHub repo: [HongKong-CinemasScraper](https://github.com/tophersss/sagano)
+Learn more about the technical process at this GitHub repo: [HongKong-CinemasScraper](https://github.com/tophersss/HongKong-CinemasData)
 
 *keywords: Python, web-scraping, data-modeling, relational database management, multi-threading*
 
@@ -62,4 +63,4 @@ Coming soon!
 <!-- CONTACT -->
 ## ☎️ Contact
 
-Chris Suen - [LinkedIn](https://twitter.com/twitter_handle) - [chrissssuen@gmail.com](mailto:chrissssuen@gmail.com)
+Chris Suen - [LinkedIn](https://twitter.com/twitter_handle) -chrissssuen@gmail.com
