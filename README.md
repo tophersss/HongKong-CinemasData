@@ -9,9 +9,8 @@
 <h2 align="center">🍿 Hong Kong Cinemas Data Study </h1>
 
   <p align="center">
-	This is an ongoing project that aims to produce meaningful analysis and visualizations of Hong Kong cinemas, 
-	<br />
-	using data of over 400 movies and 123,000 shows it had scraped.
+	This is an ongoing project that aims to produce meaningful analysis and visualizations of Hong Kong cinemas,
+	using data of over 400 movies and 123,000 shows collected by three scrapers.
     <br />
   </p>
 </div>
@@ -27,11 +26,11 @@ This project consists of three parts:
 <!-- DATA COLLECTING AND MODELING -->
 ## 📚 Data Collecting and Modeling
 
-All data used in this project were scraped from [hkmovie6](https://hkmovie6.com/) from October 2021 to June 2022.
+All data used in this project were scraped between from [hkmovie6](https://hkmovie6.com/), a website that displays real-time showtimes and seatplan data, between October 2021 and June 2022.
 
-Three scrapers were built to extract 🎞️movies data, 🎫showtimes data, and 💺seats occupancy data respectively.
+Three scrapers were built to extract 🎞️movie data, 🎫showtime data, and 💺seat occupancy data respectively.
 
-Each scraper has its own pipeline to process and transform the data before eventually writing to a SQLite database. Up to 13 June 2022, they have scraped data of 445 movies and 122,897 shows.
+Each scraper has its own pipeline to process and transform the data before writing to a SQLite database. Up to 13 June 2022, they have scraped data of 445 movies and 122,897 shows.
 
 Learn more about the technical process at this GitHub repo: [HongKong-CinemasScraper](https://github.com/tophersss/HongKong-CinemasData)
 
@@ -39,7 +38,7 @@ Learn more about the technical process at this GitHub repo: [HongKong-CinemasScr
 
 <br />
 
-*keywords: Python, web-scraping, data-modeling, relational database management, multi-threading*
+*keywords: Python, web-scraping, data modeling, relational database management, multi-threading*
 
 
 <!-- DATA VISUALIZATION -->
@@ -69,4 +68,6 @@ Coming soon!
 <!-- CONTACT -->
 ## ☎️ Contact
 
-Chris Suen - [LinkedIn](https://twitter.com/twitter_handle) -chrissssuen@gmail.com
+Chris Suen - chrissssuen@gmail.com
+
+[//]: # (- [LinkedIn]&#40;https://twitter.com/twitter_handle&#41;)
