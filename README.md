@@ -35,6 +35,10 @@ Each scraper has its own pipeline to process and transform the data before event
 
 Learn more about the technical process at this GitHub repo: [HongKong-CinemasScraper](https://github.com/tophersss/HongKong-CinemasData)
 
+<img src="screenshots/data__1.jpg" alt="data" width=350 height=auto />
+
+<br />
+
 *keywords: Python, web-scraping, data-modeling, relational database management, multi-threading*
 
 
@@ -50,6 +54,8 @@ Demo: [https://hongkong-cinemasdashboard.netlify.app/about](https://hongkong-cin
 <a href="https://hongkong-cinemasdashboard.netlify.app/about" target="_blank">
     <img src="screenshots/dashboard__2.gif" alt="dashboard" width=700 height=auto />
 </a>
+
+<br />
 
 *keywords: SQL, charts, dashboard, Javascript, React, HTML, CSS*
 
