@@ -44,7 +44,7 @@ Learn more about the technical process at this GitHub repo: [HongKong-CinemasScr
 <!-- DATA VISUALIZATION -->
 ## 📊 Data Visualization
 
-An interactive dashboard was created, using real data, to visualize cinemas' popular times, sales, and seat popularity.
+An interactive dashboard made with real-world data to visualize cinemas' popular times, sales, and seat popularity.
 
 Learn more about the technical process at this GitHub repo: [https://github.com/tophersss/HongKong-CinemasDashboard](https://github.com/tophersss/HongKong-CinemasDashboard)
 
