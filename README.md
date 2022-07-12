@@ -32,7 +32,7 @@ Three scrapers were built to extract 🎞️movie data, 🎫showtime data, and �
 
 Each scraper has its own pipeline to process and transform the data before writing to a SQLite database. Up to 13 June 2022, they have scraped data of 445 movies and 122,897 shows.
 
-Learn more about the technical process at this GitHub repo: [HongKong-CinemasScraper](https://github.com/tophersss/HongKong-CinemasData)
+Learn more about the technical process at this GitHub repo: [HongKong-CinemasScraper](https://github.com/tophersss/HongKong-CinemasScrapers)
 
 <img src="screenshots/data__1.jpg" alt="data" width=350 height=auto />
 
@@ -44,7 +44,7 @@ Learn more about the technical process at this GitHub repo: [HongKong-CinemasScr
 <!-- DATA VISUALIZATION -->
 ## 📊 Data Visualization
 
-An interactive dashboard was created to visualize cinemas' popular times, sales, and seat popularity.
+An interactive dashboard was created, using real data, to visualize cinemas' popular times, sales, and seat popularity.
 
 Learn more about the technical process at this GitHub repo: [https://github.com/tophersss/HongKong-CinemasDashboard](https://github.com/tophersss/HongKong-CinemasDashboard)
 
