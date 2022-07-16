@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/tophersss/HongKong-CinemasData">
 
 [comment]: <> (    <img src="images/logo.png" alt="Logo" width="80" height="80">)
   </a>
@@ -68,6 +68,4 @@ Coming soon!
 <!-- CONTACT -->
 ## ☎️ Contact
 
-Chris Suen - chrissssuen@gmail.com
-
-[//]: # (- [LinkedIn]&#40;https://twitter.com/twitter_handle&#41;)
+Chris Suen - chrissssuen@gmail.com - [LinkedIn](https://www.linkedin.com/in/chris-suen-617b57242/)
