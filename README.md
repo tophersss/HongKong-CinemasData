@@ -26,11 +26,11 @@ This project consists of three parts:
 <!-- DATA COLLECTING AND MODELING -->
 ## 📚 Data Collecting and Modeling
 
-All data used in this project were scraped between from [hkmovie6](https://hkmovie6.com/), a website that displays real-time showtimes and seatplan data, between October 2021 and June 2022.
+All data used in this project were scraped from [hkmovie6](https://hkmovie6.com/), a website that displays real-time showtimes and seatplan data, since October 2021.
 
 Three scrapers were built to extract 🎞️movie data, 🎫showtime data, and 💺seat occupancy data respectively.
 
-Each scraper has its own pipeline to process and transform the data before writing to a SQLite database. Up to 13 June 2022, they have scraped data of 445 movies and 122,897 shows.
+Each scraper has its own pipeline to process and transform the data before writing to a SQLite database. Up to 6 July 2022, they have scraped data of 520 movies and 156,956 shows.
 
 Learn more about the technical process at this GitHub repo: [HongKong-CinemasScraper](https://github.com/tophersss/HongKong-CinemasScrapers)
 
