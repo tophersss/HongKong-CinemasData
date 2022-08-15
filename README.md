@@ -10,7 +10,7 @@
 
   <p align="center">
 	This is an ongoing project that aims to produce meaningful analysis and visualizations of Hong Kong cinemas,
-	using data of over 400 movies and 123,000 shows collected by three scrapers.
+	using data of over 520 movies and 156,956 shows collected by three scrapers.
     <br />
   </p>
 </div>
